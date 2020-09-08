@@ -61,6 +61,18 @@ export default class Main extends Vue {
         price: 399,
         img: 'pepperoni-traditional.jpg',
       },
+      {
+        id: '8',
+        name: 'Шпинат и Сыр',
+        price: 599,
+        img: 'spinach-and-cheese-traditional.png',
+      },
+      {
+        id: '9',
+        name: 'Цыпленок Рэнч',
+        price: 479,
+        img: 'chicken-ranch-traditional.jpg',
+      },
     ];
   }
 }
